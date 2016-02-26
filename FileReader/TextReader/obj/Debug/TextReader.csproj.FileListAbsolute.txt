@@ -1,0 +1,22 @@
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\bin\Debug\TextReader.exe.config
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\bin\Debug\TextReader.exe
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\bin\Debug\TextReader.pdb
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\obj\Debug\TextReader.csprojResolveAssemblyReference.cache
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\obj\Debug\TextReader.Form1.resources
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\obj\Debug\TextReader.Properties.Resources.resources
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\obj\Debug\TextReader.csproj.GenerateResource.Cache
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\obj\Debug\TextReader.exe
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\obj\Debug\TextReader.pdb
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\bin\Debug\itextsharp.dll
+C:\Users\Carl\Desktop\Text Reader\FileReader\TextReader\bin\Debug\itextsharp.xml
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\bin\Debug\TextReader.exe.config
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\obj\Debug\TextReader.exe
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\obj\Debug\TextReader.pdb
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\bin\Debug\TextReader.exe
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\bin\Debug\TextReader.pdb
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\bin\Debug\itextsharp.dll
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\bin\Debug\itextsharp.xml
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\obj\Debug\TextReader.csprojResolveAssemblyReference.cache
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\obj\Debug\TextReader.Form1.resources
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\obj\Debug\TextReader.Properties.Resources.resources
+D:\Carl\Projects\Personal\PDF Text Reader\FileReader\TextReader\obj\Debug\TextReader.csproj.GenerateResource.Cache
